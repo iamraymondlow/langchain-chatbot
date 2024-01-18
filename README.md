@@ -1,1 +1,1 @@
-# langchain-chatbot
+# langchain-pdf-reader
